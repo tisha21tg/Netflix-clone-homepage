@@ -1,31 +1,32 @@
 # Netflix-clone-homepage
 
-Project Overview
+#Project Overview
 This project is a clone of the Netflix homepage, created using HTML, CSS, and JavaScript. The goal is to replicate the visual design and interactive features of Netflix's landing page. The clone includes essential components like the navigation bar, banner section, movie/TV show carousels, and footer.
 
-Technologies Used
+#Technologies Used
 HTML: For structuring the content.
 CSS: For styling and layout.
 JavaScript: For interactivity and dynamic content.
-Features
-Navigation Bar:
 
+#Features
+
+1.Navigation Bar:
 Contains the Netflix logo and navigation links (Home, TV Shows, Movies, Latest, My List).
 User profile icon with a dropdown menu.
-Banner Section:
 
+2.Banner Section:
 Large banner showcasing a featured show/movie.
 Includes "Play" and "More Info" buttons.
-Movie/TV Show Carousels:
 
+3.Movie/TV Show Carousels:
 Horizontal scrolling carousels for different categories (Trending Now, Top Picks, etc.).
 Each carousel contains multiple movie/show thumbnails.
-Footer:
 
+4.Footer:
 Links to various informational pages (Contact, Privacy, Terms, etc.).
 Social media icons.
 
-Project structure: 
+#Project structure: 
 netflix-clone/
 ├── index.html
 ├── styles.css
